@@ -1,5 +1,5 @@
 #header{
-    background-color: #1F7CFF;
+    background-color: #000000;
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: 'Hubballi', cursive;
@@ -22,14 +22,14 @@
 }
 #contact i{
     width: 30px;
-    color: #1F7CFF;
+    color: #000000;
 }
 #skill{
     list-style-type: none;
 }
 #skill i{
     width: 30px;
-    color: #1F7CFF;
+    color: #000000;
 }
 #link{
     list-style-type: none;
@@ -37,7 +37,7 @@
 }
 #link i{
     width: 30px;
-    color: #1F7CFF;
+    color: #000000;
 
 }
 #container{
